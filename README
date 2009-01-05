@@ -1,4 +1,4 @@
-<b>NOTE: This plugin has been retired as the code was rolled into Rails core as of Rails 2.2.</b>
+NOTE: This plugin has been retired as the code was rolled into Rails core as of Rails 2.2.
 
 = Transactional Migrations
 
